@@ -1,9 +1,9 @@
 public class Aluno extends Pessoa {
 
-	private Matricula matricula;
+	private Matricula x;
 
 	public void SolicitarMatricula() {
-		System.out.println("Opa");
+		System.out.println("Opa Teste");
 	}
 
 }
